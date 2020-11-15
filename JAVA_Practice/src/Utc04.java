@@ -1,4 +1,4 @@
-class Solution4 {
+class Utc04 {
     public String solution(String penter, String pexit, String pescape, String data) {
         String answer = "";
         String cut;

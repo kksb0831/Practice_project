@@ -1,4 +1,4 @@
-class Solution3 {
+class Utc03 {
     public int solution(int money, String[] expected, String[] actual) {
         int answer = -1;
         int sum = 100;

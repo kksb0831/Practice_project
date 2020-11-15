@@ -1,4 +1,4 @@
-class Solution2 {
+class Utc02 {
     public long[] solution(String s, String op) {
         long[] answer = new long[s.length()-1];
         int a,b;

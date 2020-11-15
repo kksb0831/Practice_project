@@ -1,5 +1,5 @@
 
-class Solution1 {
+class Utc01 {
     public int solution(String[] grades, int[] weights, int threshold) {
         int answer = -1234567890;
         int gra = 0;

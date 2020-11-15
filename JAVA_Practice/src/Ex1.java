@@ -23,7 +23,7 @@
        */
 
 
-class Solution {
+class  Ex1 {
     public int[] solution(int[][] v) {
         int[] answer = {};
 

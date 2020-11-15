@@ -1,6 +1,6 @@
 
 
-class Solution6 {
+class Utc06 {
     public String[] solution(String[] logs) {
         int count = 0;
         String[] answer = new String[logs.length];
