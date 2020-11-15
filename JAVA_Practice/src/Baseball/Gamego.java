@@ -5,11 +5,6 @@ import java.util.Scanner;
 
 //숫자 입력, 게임시작
 class Gamego {
-    public static void main(String[] args) {
-        Gamego.insertnum();
-    }
-
-
     static int[] gamego(int[] answer) {
         System.out.println("게임을 시작합니다!!");
         int[] correct = Gamego.insertnum();
