@@ -124,13 +124,13 @@ for문은 이중으로 사용하거나 다른 구문과 연합하여 사용하�
 
 ex) 다이아모양 별 출력
 ```
-        int num = 5;
+        int num =0;
         for (int i = 0; i <num; i++) {
             for (int j = 0; j <num; j++) {
                 if (i<=num/2) {
-                    if (i+j<num/2-1) {
+                    if (i+j<=num/2-1) {
                         System.out.print(" ");
-                    }else if (j-i>num/2+1) {
+                    }else if (j-i>=num/2+1) {
                         System.out.print(" ");
                     }else {
                         System.out.print("*");
