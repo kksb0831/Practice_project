@@ -129,11 +129,11 @@ ex) 다이아모양 별 출력
             for (int j = 0; j <num; j++) {
                 if (i<=num/2) {
                     if (i+j<num/2-1) {
-                        System.out.println(" ");
+                        System.out.print(" ");
                     }else if (j-i>num/2+1) {
-                        System.out.println(" ");
+                        System.out.print(" ");
                     }else {
-                        System.out.println("*");
+                        System.out.print("*");
                     }
                 }else if (i>num/2){
                     if (i-j>=num/2+1)
